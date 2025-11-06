@@ -454,7 +454,7 @@ li a:hover {
 .autoshow{
   animation: appear linear;
   animation-timeline: view();
-  animation-range:entry 0 cover 40%;
+  animation-range:entry 0 cover 50%;
 }
 @keyframes appear{
   from{ opacity:0; transform:translateY(90px); }
